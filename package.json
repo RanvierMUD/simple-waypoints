@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "basic-waypoints",
+  "version": "1.0.0",
+  "description": "Ranvier bundle for a basic waypoint fast travel system",
+  "dependencies": {
+    "sprintf-js": "^1.1.2"
+  }
+}
